@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<murmurs type="array">
+  <murmur>
+    <id type="integer">37899</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/11725.xml">
+      <id type="integer">11725</id>
+      <name>ibnc</name>
+      <login>icarter</login>
+      <email>icarter@thoughtworks.com</email>
+      <light type="boolean">false</light>
+      <icon_path>/user/icon/11725/icon.jpg</icon_path>
+      <icon_url>https://pasty-attachments-storage.s3-us-west-1.amazonaws.com/mingle/user/icon/11725/icon.jpg?AWSAccessKeyId=WINK&amp;Expires=1402437927&amp;Signature=8kiiaYS1bA4CsTUGnSPmLTHVegI%3D&amp;response-content-type=image%2Fjpeg&amp;x-amz-security-token=AQoDYXdzEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEa0AOoS5uUTt5x11008H76wt%2B4xri588vbHoKgwog0LJza3Dl0%2B2vQk8x9B%2FKEGr6C0THijoZg26zBH852mdKQg7kJDmUd9Rwkp2NppApuUhXeAW83THS0wkHLunuTfAwtIsBtjxgElYHNWUTXhmkQ%2BnkYZHnTy7AufCaO%2BHWwm%2Bd1uhOLSWo%2Bvs3T7IwXEp14lF7%2FYDrTE5FTqaDVzBHPc6kFedrBPqWQfJRiJOaMuWOODaHA5oWe9lEtfTn9itBmHF3ppAGbPVYwMRQSbLSPI3eL1zrH2qeCKU7TavMtMvST%2BsT7e8OHzCVXijeUoZ2Idt3EqYvTFZQJiZFqGPedqtV0UIW%2BWPW2RRgQAK%2BYf7JOwnK01LN3A0NcKcL9JfDhx8EcPI467hbfphWhjbuv%2BOQqPihKaCDoLy6wT6ERryjfF5kRIhZiTRPEH1FbKuXYXAFa43H76501zBlHFYWx9OfRtWDrIjhad%2BjrgUu9e4WwbsCUgzTpAiE1ift7ykbe9C%2Bj8C7%2FbwyCIyKAwqngUuKDYuJ9Ym9wV6iEHH976fWkYL8J9JNBNt9EcQNUbqOMbEAVVxkNT5PPTOvWGp4MYe1LgUzYNZxPNfRtNZYRNIzwgCCQ292cBQ%3D%3D</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name nil="true"></version_control_user_name>
+      <jabber_user_name nil="true"></jabber_user_name>
+    </author>
+    <body>@xli Yep, I am aware of this issue. I haven't had time to come back and clean up my hack day code. Thanks for the reminder. #688</body>
+    <created_at type="datetime">2014-06-10T20:40:40Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="default">
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37898</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/10340.xml">
+      <id type="integer">10340</id>
+      <name>Mingle Integration</name>
+      <login>mingle.saas@thoughtworks.com</login>
+      <email>mingle.saas@thoughtworks.com</email>
+      <light type="boolean">false</light>
+      <icon_path nil="true"></icon_path>
+      <icon_url>http://www.gravatar.com/avatar/0a10dba66a8bf1409fe2ddaf7bf200fc?d=404&amp;s=48</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name nil="true"></version_control_user_name>
+      <jabber_user_name nil="true"></jabber_user_name>
+    </author>
+    <body>Author: [Xiao Li](mailto:xli@thoughtworks.com)
+[minglezy/#702] Remove comment of card, only murmurs, and card comment is murmur: hide 'show murmur' option in card comment sidebar
+commit #rev-bd5c7edcbd5629 (mingle)
+Date:   Tue Jun 10 12:33:50 2014 -0700</body>
+    <created_at type="datetime">2014-06-10T20:25:19Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="default">
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37897</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/10018.xml">
+      <id type="integer">10018</id>
+      <name>W &quot;the&quot; PC</name>
+      <login>pwang</login>
+      <email>pwang@thoughtworks.com</email>
+      <light type="boolean">false</light>
+      <icon_path>/user/icon/10018/wpc_copy.jpg</icon_path>
+      <icon_url>https://pasty-attachments-storage.s3-us-west-1.amazonaws.com/mingle/user/icon/10018/wpc_copy.jpg?AWSAccessKeyId=WINK&amp;Expires=1402437927&amp;Signature=f3M1sZi6rSvT9YrCpXDZWhWjyGc%3D&amp;response-content-type=image%2Fjpeg&amp;x-amz-security-token=AQoDYXdzEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEa0AOoS5uUTt5x11008H76wt%2B4xri588vbHoKgwog0LJza3Dl0%2B2vQk8x9B%2FKEGr6C0THijoZg26zBH852mdKQg7kJDmUd9Rwkp2NppApuUhXeAW83THS0wkHLunuTfAwtIsBtjxgElYHNWUTXhmkQ%2BnkYZHnTy7AufCaO%2BHWwm%2Bd1uhOLSWo%2Bvs3T7IwXEp14lF7%2FYDrTE5FTqaDVzBHPc6kFedrBPqWQfJRiJOaMuWOODaHA5oWe9lEtfTn9itBmHF3ppAGbPVYwMRQSbLSPI3eL1zrH2qeCKU7TavMtMvST%2BsT7e8OHzCVXijeUoZ2Idt3EqYvTFZQJiZFqGPedqtV0UIW%2BWPW2RRgQAK%2BYf7JOwnK01LN3A0NcKcL9JfDhx8EcPI467hbfphWhjbuv%2BOQqPihKaCDoLy6wT6ERryjfF5kRIhZiTRPEH1FbKuXYXAFa43H76501zBlHFYWx9OfRtWDrIjhad%2BjrgUu9e4WwbsCUgzTpAiE1ift7ykbe9C%2Bj8C7%2FbwyCIyKAwqngUuKDYuJ9Ym9wV6iEHH976fWkYL8J9JNBNt9EcQNUbqOMbEAVVxkNT5PPTOvWGp4MYe1LgUzYNZxPNfRtNZYRNIzwgCCQ292cBQ%3D%3D</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name>pwang</version_control_user_name>
+      <jabber_user_name>pwang</jabber_user_name>
+    </author>
+    <body>@smarker http://www.discogs.com/Radiohead-Unplugged/release/2130300</body>
+    <created_at type="datetime">2014-06-10T20:08:30Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="default">
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37896</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/10005.xml">
+      <id type="integer">10005</id>
+      <name>Xiao Li</name>
+      <login>xli</login>
+      <email>xli@thoughtworks.com</email>
+      <light type="boolean">false</light>
+      <icon_path>/user/icon/10005/xli.jpeg</icon_path>
+      <icon_url>https://pasty-attachments-storage.s3-us-west-1.amazonaws.com/mingle/user/icon/10005/xli.jpeg?AWSAccessKeyId=WINK&amp;Expires=1402437927&amp;Signature=KCiC4f%2FNMVPAENI8WR1Kmg2FZ7I%3D&amp;response-content-type=image%2Fjpeg&amp;x-amz-security-token=AQoDYXdzEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEa0AOoS5uUTt5x11008H76wt%2B4xri588vbHoKgwog0LJza3Dl0%2B2vQk8x9B%2FKEGr6C0THijoZg26zBH852mdKQg7kJDmUd9Rwkp2NppApuUhXeAW83THS0wkHLunuTfAwtIsBtjxgElYHNWUTXhmkQ%2BnkYZHnTy7AufCaO%2BHWwm%2Bd1uhOLSWo%2Bvs3T7IwXEp14lF7%2FYDrTE5FTqaDVzBHPc6kFedrBPqWQfJRiJOaMuWOODaHA5oWe9lEtfTn9itBmHF3ppAGbPVYwMRQSbLSPI3eL1zrH2qeCKU7TavMtMvST%2BsT7e8OHzCVXijeUoZ2Idt3EqYvTFZQJiZFqGPedqtV0UIW%2BWPW2RRgQAK%2BYf7JOwnK01LN3A0NcKcL9JfDhx8EcPI467hbfphWhjbuv%2BOQqPihKaCDoLy6wT6ERryjfF5kRIhZiTRPEH1FbKuXYXAFa43H76501zBlHFYWx9OfRtWDrIjhad%2BjrgUu9e4WwbsCUgzTpAiE1ift7ykbe9C%2Bj8C7%2FbwyCIyKAwqngUuKDYuJ9Ym9wV6iEHH976fWkYL8J9JNBNt9EcQNUbqOMbEAVVxkNT5PPTOvWGp4MYe1LgUzYNZxPNfRtNZYRNIzwgCCQ292cBQ%3D%3D</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name>xli &lt;xli@thoughtworks.com&gt;</version_control_user_name>
+      <jabber_user_name nil="true"></jabber_user_name>
+    </author>
+    <body>@icarter the icon may hide some text in Card name</body>
+    <created_at type="datetime">2014-06-10T19:33:23Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="comment">
+      <origin url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/projects/minglezy/cards/688.xml">
+        <number type="integer">688</number>
+      </origin>
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37895</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/10005.xml">
+      <id type="integer">10005</id>
+      <name>Xiao Li</name>
+      <login>xli</login>
+      <email>xli@thoughtworks.com</email>
+      <light type="boolean">false</light>
+      <icon_path>/user/icon/10005/xli.jpeg</icon_path>
+      <icon_url>https://pasty-attachments-storage.s3-us-west-1.amazonaws.com/mingle/user/icon/10005/xli.jpeg?AWSAccessKeyId=WINK&amp;Expires=1402437927&amp;Signature=KCiC4f%2FNMVPAENI8WR1Kmg2FZ7I%3D&amp;response-content-type=image%2Fjpeg&amp;x-amz-security-token=AQoDYXdzEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEa0AOoS5uUTt5x11008H76wt%2B4xri588vbHoKgwog0LJza3Dl0%2B2vQk8x9B%2FKEGr6C0THijoZg26zBH852mdKQg7kJDmUd9Rwkp2NppApuUhXeAW83THS0wkHLunuTfAwtIsBtjxgElYHNWUTXhmkQ%2BnkYZHnTy7AufCaO%2BHWwm%2Bd1uhOLSWo%2Bvs3T7IwXEp14lF7%2FYDrTE5FTqaDVzBHPc6kFedrBPqWQfJRiJOaMuWOODaHA5oWe9lEtfTn9itBmHF3ppAGbPVYwMRQSbLSPI3eL1zrH2qeCKU7TavMtMvST%2BsT7e8OHzCVXijeUoZ2Idt3EqYvTFZQJiZFqGPedqtV0UIW%2BWPW2RRgQAK%2BYf7JOwnK01LN3A0NcKcL9JfDhx8EcPI467hbfphWhjbuv%2BOQqPihKaCDoLy6wT6ERryjfF5kRIhZiTRPEH1FbKuXYXAFa43H76501zBlHFYWx9OfRtWDrIjhad%2BjrgUu9e4WwbsCUgzTpAiE1ift7ykbe9C%2Bj8C7%2FbwyCIyKAwqngUuKDYuJ9Ym9wV6iEHH976fWkYL8J9JNBNt9EcQNUbqOMbEAVVxkNT5PPTOvWGp4MYe1LgUzYNZxPNfRtNZYRNIzwgCCQ292cBQ%3D%3D</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name>xli &lt;xli@thoughtworks.com&gt;</version_control_user_name>
+      <jabber_user_name nil="true"></jabber_user_name>
+    </author>
+    <body>@mdoerken I think this is ready to dumpling, we should schedule delivery date. Hopefully it is before I go to vacation. (cc @eteng@thoughtworks.com)</body>
+    <created_at type="datetime">2014-06-10T19:26:34Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="comment">
+      <origin url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/projects/minglezy/cards/618.xml">
+        <number type="integer">618</number>
+      </origin>
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37894</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/10005.xml">
+      <id type="integer">10005</id>
+      <name>Xiao Li</name>
+      <login>xli</login>
+      <email>xli@thoughtworks.com</email>
+      <light type="boolean">false</light>
+      <icon_path>/user/icon/10005/xli.jpeg</icon_path>
+      <icon_url>https://pasty-attachments-storage.s3-us-west-1.amazonaws.com/mingle/user/icon/10005/xli.jpeg?AWSAccessKeyId=WINK&amp;Expires=1402437927&amp;Signature=KCiC4f%2FNMVPAENI8WR1Kmg2FZ7I%3D&amp;response-content-type=image%2Fjpeg&amp;x-amz-security-token=AQoDYXdzEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEa0AOoS5uUTt5x11008H76wt%2B4xri588vbHoKgwog0LJza3Dl0%2B2vQk8x9B%2FKEGr6C0THijoZg26zBH852mdKQg7kJDmUd9Rwkp2NppApuUhXeAW83THS0wkHLunuTfAwtIsBtjxgElYHNWUTXhmkQ%2BnkYZHnTy7AufCaO%2BHWwm%2Bd1uhOLSWo%2Bvs3T7IwXEp14lF7%2FYDrTE5FTqaDVzBHPc6kFedrBPqWQfJRiJOaMuWOODaHA5oWe9lEtfTn9itBmHF3ppAGbPVYwMRQSbLSPI3eL1zrH2qeCKU7TavMtMvST%2BsT7e8OHzCVXijeUoZ2Idt3EqYvTFZQJiZFqGPedqtV0UIW%2BWPW2RRgQAK%2BYf7JOwnK01LN3A0NcKcL9JfDhx8EcPI467hbfphWhjbuv%2BOQqPihKaCDoLy6wT6ERryjfF5kRIhZiTRPEH1FbKuXYXAFa43H76501zBlHFYWx9OfRtWDrIjhad%2BjrgUu9e4WwbsCUgzTpAiE1ift7ykbe9C%2Bj8C7%2FbwyCIyKAwqngUuKDYuJ9Ym9wV6iEHH976fWkYL8J9JNBNt9EcQNUbqOMbEAVVxkNT5PPTOvWGp4MYe1LgUzYNZxPNfRtNZYRNIzwgCCQ292cBQ%3D%3D</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name>xli &lt;xli@thoughtworks.com&gt;</version_control_user_name>
+      <jabber_user_name nil="true"></jabber_user_name>
+    </author>
+    <body>@wdephill that's an interesting hand book, can't believe they did it</body>
+    <created_at type="datetime">2014-06-10T19:22:08Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="default">
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37893</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/10340.xml">
+      <id type="integer">10340</id>
+      <name>Mingle Integration</name>
+      <login>mingle.saas@thoughtworks.com</login>
+      <email>mingle.saas@thoughtworks.com</email>
+      <light type="boolean">false</light>
+      <icon_path nil="true"></icon_path>
+      <icon_url>http://www.gravatar.com/avatar/0a10dba66a8bf1409fe2ddaf7bf200fc?d=404&amp;s=48</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name nil="true"></version_control_user_name>
+      <jabber_user_name nil="true"></jabber_user_name>
+    </author>
+    <body>Author: [Sheroy](mailto:smarker@thoughtworks.com)
+[minglezy/#704] In app feedback form - Bringing the help link back on the footer
+commit #rev-57bdbe0e739ee5 (mingle)
+Date:   Tue Jun 10 11:10:48 2014 -0700</body>
+    <created_at type="datetime">2014-06-10T18:23:42Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="default">
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37892</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/10042.xml">
+      <id type="integer">10042</id>
+      <name>Bill &quot;Color Hash&quot;</name>
+      <login>wdephill</login>
+      <email>wdephill@thoughtworks.com</email>
+      <light type="boolean">false</light>
+      <icon_path nil="true"></icon_path>
+      <icon_url>http://www.gravatar.com/avatar/8e3c84fad85ba02efd497376dcf4d84b?d=404&amp;s=48</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name>wdephill</version_control_user_name>
+      <jabber_user_name>bdephillips</jabber_user_name>
+    </author>
+    <body>@pwang if you haven't we should just re-enable New Relic. clearly disabling it was a bad way to save money</body>
+    <created_at type="datetime">2014-06-10T15:57:55Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="default">
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37891</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/10042.xml">
+      <id type="integer">10042</id>
+      <name>Bill &quot;Color Hash&quot;</name>
+      <login>wdephill</login>
+      <email>wdephill@thoughtworks.com</email>
+      <light type="boolean">false</light>
+      <icon_path nil="true"></icon_path>
+      <icon_url>http://www.gravatar.com/avatar/8e3c84fad85ba02efd497376dcf4d84b?d=404&amp;s=48</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name>wdephill</version_control_user_name>
+      <jabber_user_name>bdephillips</jabber_user_name>
+    </author>
+    <body>@team I re-read this on the plane and it reminded me of our own efforts to make the team more autonomous.  If you have 20min, take a look: http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf</body>
+    <created_at type="datetime">2014-06-10T15:51:52Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="default">
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37890</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/10042.xml">
+      <id type="integer">10042</id>
+      <name>Bill &quot;Color Hash&quot;</name>
+      <login>wdephill</login>
+      <email>wdephill@thoughtworks.com</email>
+      <light type="boolean">false</light>
+      <icon_path nil="true"></icon_path>
+      <icon_url>http://www.gravatar.com/avatar/8e3c84fad85ba02efd497376dcf4d84b?d=404&amp;s=48</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name>wdephill</version_control_user_name>
+      <jabber_user_name>bdephillips</jabber_user_name>
+    </author>
+    <body>@team I'm going to WFH today. let me know if there's anything critical, else i'll be in android murmurs land</body>
+    <created_at type="datetime">2014-06-10T15:40:01Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="default">
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37889</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/10087.xml">
+      <id type="integer">10087</id>
+      <name>Melissa &quot;Railsmeister&quot; Doerken</name>
+      <login>mdoerken</login>
+      <email>mdoerken@thoughtworks.com</email>
+      <light type="boolean">false</light>
+      <icon_path>/user/icon/10087/ruby-icon-150x150.png</icon_path>
+      <icon_url>https://pasty-attachments-storage.s3-us-west-1.amazonaws.com/mingle/user/icon/10087/ruby-icon-150x150.png?AWSAccessKeyId=WINK&amp;Expires=1402437927&amp;Signature=xgx%2FFKXeHou25mar4ZIgbOW56xs%3D&amp;response-content-type=image%2Fpng&amp;x-amz-security-token=AQoDYXdzEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEa0AOoS5uUTt5x11008H76wt%2B4xri588vbHoKgwog0LJza3Dl0%2B2vQk8x9B%2FKEGr6C0THijoZg26zBH852mdKQg7kJDmUd9Rwkp2NppApuUhXeAW83THS0wkHLunuTfAwtIsBtjxgElYHNWUTXhmkQ%2BnkYZHnTy7AufCaO%2BHWwm%2Bd1uhOLSWo%2Bvs3T7IwXEp14lF7%2FYDrTE5FTqaDVzBHPc6kFedrBPqWQfJRiJOaMuWOODaHA5oWe9lEtfTn9itBmHF3ppAGbPVYwMRQSbLSPI3eL1zrH2qeCKU7TavMtMvST%2BsT7e8OHzCVXijeUoZ2Idt3EqYvTFZQJiZFqGPedqtV0UIW%2BWPW2RRgQAK%2BYf7JOwnK01LN3A0NcKcL9JfDhx8EcPI467hbfphWhjbuv%2BOQqPihKaCDoLy6wT6ERryjfF5kRIhZiTRPEH1FbKuXYXAFa43H76501zBlHFYWx9OfRtWDrIjhad%2BjrgUu9e4WwbsCUgzTpAiE1ift7ykbe9C%2Bj8C7%2FbwyCIyKAwqngUuKDYuJ9Ym9wV6iEHH976fWkYL8J9JNBNt9EcQNUbqOMbEAVVxkNT5PPTOvWGp4MYe1LgUzYNZxPNfRtNZYRNIzwgCCQ292cBQ%3D%3D</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name>mdoerken</version_control_user_name>
+      <jabber_user_name nil="true"></jabber_user_name>
+    </author>
+    <body>@jnarkuns what was the feedback??</body>
+    <created_at type="datetime">2014-06-10T15:35:10Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="default">
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37888</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/11643.xml">
+      <id type="integer">11643</id>
+      <name>jnarkuns</name>
+      <login>jnarkuns</login>
+      <email nil="true"></email>
+      <light type="boolean">false</light>
+      <icon_path>/user/icon/11643/Jamie_Image.jpg</icon_path>
+      <icon_url>https://pasty-attachments-storage.s3-us-west-1.amazonaws.com/mingle/user/icon/11643/Jamie_Image.jpg?AWSAccessKeyId=WINK&amp;Expires=1402437927&amp;sig123%3D&amp;response-content-type=image%2Fjpeg&amp;x-amz-security-token=AQoDYXdzEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEa0AOoS5uUTt5x11008H76wt%2B4xri588vbHoKgwog0LJza3Dl0%2B2vQk8x9B%2FKEGr6C0THijoZg26zBH852mdKQg7kJDmUd9Rwkp2NppApuUhXeAW83THS0wkHLunuTfAwtIsBtjxgElYHNWUTXhmkQ%2BnkYZHnTy7AufCaO%2BHWwm%2Bd1uhOLSWo%2Bvs3T7IwXEp14lF7%2FYDrTE5FTqaDVzBHPc6kFedrBPqWQfJRiJOaMuWOODaHA5oWe9lEtfTn9itBmHF3ppAGbPVYwMRQSbLSPI3eL1zrH2qeCKU7TavMtMvST%2BsT7e8OHzCVXijeUoZ2Idt3EqYvTFZQJiZFqGPedqtV0UIW%2BWPW2RRgQAK%2BYf7JOwnK01LN3A0NcKcL9JfDhx8EcPI467hbfphWhjbuv%2BOQqPihKaCDoLy6wT6ERryjfF5kRIhZiTRPEH1FbKuXYXAFa43H76501zBlHFYWx9OfRtWDrIjhad%2BjrgUu9e4WwbsCUgzTpAiE1ift7ykbe9C%2Bj8C7%2FbwyCIyKAwqngUuKDYuJ9Ym9wV6iEHH976fWkYL8J9JNBNt9EcQNUbqOMbEAVVxkNT5PPTOvWGp4MYe1LgUzYNZxPNfRtNZYRNIzwgCCQ292cBQ%3D%3D</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name nil="true"></version_control_user_name>
+      <jabber_user_name nil="true"></jabber_user_name>
+    </author>
+    <body>@team we got our first non-ethan &quot;Speak with us&quot; feedback this morning!</body>
+    <created_at type="datetime">2014-06-10T14:45:12Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="default">
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37887</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/10340.xml">
+      <id type="integer">10340</id>
+      <name>Mingle Integration</name>
+      <login>mingle.saas@thoughtworks.com</login>
+      <email>mingle.saas@thoughtworks.com</email>
+      <light type="boolean">false</light>
+      <icon_path nil="true"></icon_path>
+      <icon_url>http://www.gravatar.com/avatar/0a10dba66a8bf1409fe2ddaf7bf200fc?d=404&amp;s=48</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name nil="true"></version_control_user_name>
+      <jabber_user_name nil="true"></jabber_user_name>
+    </author>
+    <body>Author: [Marques Lee](mailto:marques.lee@thoughtworks.com)
+[minglezy/#662] don't adjust 'expands' parameter in card list views when deleting a card. for large projects with many favorites, this takes a huge amount of time and heap, and may fail as a result (OOM or timeout)
+commit #rev-2531803ae2cffd (mingle)
+Date:   Mon Jun 9 16:35:47 2014 -0700</body>
+    <created_at type="datetime">2014-06-09T23:59:31Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="default">
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37886</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/10340.xml">
+      <id type="integer">10340</id>
+      <name>Mingle Integration</name>
+      <login>mingle.saas@thoughtworks.com</login>
+      <email>mingle.saas@thoughtworks.com</email>
+      <light type="boolean">false</light>
+      <icon_path nil="true"></icon_path>
+      <icon_url>http://www.gravatar.com/avatar/0a10dba66a8bf1409fe2ddaf7bf200fc?d=404&amp;s=48</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name nil="true"></version_control_user_name>
+      <jabber_user_name nil="true"></jabber_user_name>
+    </author>
+    <body>Author: [xli+icarter](mailto:xli+icarter@thoughtworks.com)
+remove pasty related toggles, use runtime toggle for mingle site
+commit #rev-4ee3e3da6d15f4 (mingle-saas)
+Date:   Mon Jun 9 16:53:21 2014 -0700</body>
+    <created_at type="datetime">2014-06-09T23:49:46Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="default">
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37885</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/10340.xml">
+      <id type="integer">10340</id>
+      <name>Mingle Integration</name>
+      <login>mingle.saas@thoughtworks.com</login>
+      <email>mingle.saas@thoughtworks.com</email>
+      <light type="boolean">false</light>
+      <icon_path nil="true"></icon_path>
+      <icon_url>http://www.gravatar.com/avatar/0a10dba66a8bf1409fe2ddaf7bf200fc?d=404&amp;s=48</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name nil="true"></version_control_user_name>
+      <jabber_user_name nil="true"></jabber_user_name>
+    </author>
+    <body>Author: [pwang](mailto:pwang@thoughtworks.com)
+retry on proxy error on api call. retry on put
+commit #rev-0bd362c896110f (mingle-test)
+Date:   Mon Jun 9 16:23:04 2014 -0700</body>
+    <created_at type="datetime">2014-06-09T23:25:53Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="default">
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37884</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/10340.xml">
+      <id type="integer">10340</id>
+      <name>Mingle Integration</name>
+      <login>mingle.saas@thoughtworks.com</login>
+      <email>mingle.saas@thoughtworks.com</email>
+      <light type="boolean">false</light>
+      <icon_path nil="true"></icon_path>
+      <icon_url>http://www.gravatar.com/avatar/0a10dba66a8bf1409fe2ddaf7bf200fc?d=404&amp;s=48</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name nil="true"></version_control_user_name>
+      <jabber_user_name nil="true"></jabber_user_name>
+    </author>
+    <body>Author: [pwang](mailto:pwang@thoughtworks.com)
+retry get api request up to 3 times on connection timeout
+commit #rev-bd1a8d4c404e4f (mingle-test)
+Date:   Mon Jun 9 15:44:55 2014 -0700</body>
+    <created_at type="datetime">2014-06-09T22:44:57Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="default">
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37883</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/10003.xml">
+      <id type="integer">10003</id>
+      <name>Chad</name>
+      <login>cwathing</login>
+      <email>cwathing@thoughtworks.com</email>
+      <light type="boolean">false</light>
+      <icon_path>/user/icon/10003/Photo_4_Cropped.gif</icon_path>
+      <icon_url>https://pasty-attachments-storage.s3-us-west-1.amazonaws.com/mingle/user/icon/10003/Photo_4_Cropped.gif?AWSAccessKeyId=WINK&amp;Expires=1402437927&amp;Signature=pTcpVMjZp%2BkejSxkz24oEw06y5A%3D&amp;response-content-type=image%2Fgif&amp;x-amz-security-token=AQoDYXdzEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEa0AOoS5uUTt5x11008H76wt%2B4xri588vbHoKgwog0LJza3Dl0%2B2vQk8x9B%2FKEGr6C0THijoZg26zBH852mdKQg7kJDmUd9Rwkp2NppApuUhXeAW83THS0wkHLunuTfAwtIsBtjxgElYHNWUTXhmkQ%2BnkYZHnTy7AufCaO%2BHWwm%2Bd1uhOLSWo%2Bvs3T7IwXEp14lF7%2FYDrTE5FTqaDVzBHPc6kFedrBPqWQfJRiJOaMuWOODaHA5oWe9lEtfTn9itBmHF3ppAGbPVYwMRQSbLSPI3eL1zrH2qeCKU7TavMtMvST%2BsT7e8OHzCVXijeUoZ2Idt3EqYvTFZQJiZFqGPedqtV0UIW%2BWPW2RRgQAK%2BYf7JOwnK01LN3A0NcKcL9JfDhx8EcPI467hbfphWhjbuv%2BOQqPihKaCDoLy6wT6ERryjfF5kRIhZiTRPEH1FbKuXYXAFa43H76501zBlHFYWx9OfRtWDrIjhad%2BjrgUu9e4WwbsCUgzTpAiE1ift7ykbe9C%2Bj8C7%2FbwyCIyKAwqngUuKDYuJ9Ym9wV6iEHH976fWkYL8J9JNBNt9EcQNUbqOMbEAVVxkNT5PPTOvWGp4MYe1LgUzYNZxPNfRtNZYRNIzwgCCQ292cBQ%3D%3D</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name nil="true"></version_control_user_name>
+      <jabber_user_name>chad</jabber_user_name>
+    </author>
+    <body>@jnarkuns thanks! i'll think about the interaction a bit more... don't have any great ideas at the moment</body>
+    <created_at type="datetime">2014-06-09T22:29:07Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="default">
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37882</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/10340.xml">
+      <id type="integer">10340</id>
+      <name>Mingle Integration</name>
+      <login>mingle.saas@thoughtworks.com</login>
+      <email>mingle.saas@thoughtworks.com</email>
+      <light type="boolean">false</light>
+      <icon_path nil="true"></icon_path>
+      <icon_url>http://www.gravatar.com/avatar/0a10dba66a8bf1409fe2ddaf7bf200fc?d=404&amp;s=48</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name nil="true"></version_control_user_name>
+      <jabber_user_name nil="true"></jabber_user_name>
+    </author>
+    <body>Author: [pwang](mailto:pwang@thoughtworks.com)
+revert back old plain click using webdriver
+commit #rev-a0b010c7e700cc (mingle-test)
+Date:   Mon Jun 9 15:17:54 2014 -0700</body>
+    <created_at type="datetime">2014-06-09T22:17:56Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="default">
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37881</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/11643.xml">
+      <id type="integer">11643</id>
+      <name>jnarkuns</name>
+      <login>jnarkuns</login>
+      <email nil="true"></email>
+      <light type="boolean">false</light>
+      <icon_path>/user/icon/11643/Jamie_Image.jpg</icon_path>
+      <icon_url>https://pasty-attachments-storage.s3-us-west-1.amazonaws.com/mingle/user/icon/11643/Jamie_Image.jpg?AWSAccessKeyId=WINK&amp;Expires=1402437927&amp;sig123%3D&amp;response-content-type=image%2Fjpeg&amp;x-amz-security-token=AQoDYXdzEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEa0AOoS5uUTt5x11008H76wt%2B4xri588vbHoKgwog0LJza3Dl0%2B2vQk8x9B%2FKEGr6C0THijoZg26zBH852mdKQg7kJDmUd9Rwkp2NppApuUhXeAW83THS0wkHLunuTfAwtIsBtjxgElYHNWUTXhmkQ%2BnkYZHnTy7AufCaO%2BHWwm%2Bd1uhOLSWo%2Bvs3T7IwXEp14lF7%2FYDrTE5FTqaDVzBHPc6kFedrBPqWQfJRiJOaMuWOODaHA5oWe9lEtfTn9itBmHF3ppAGbPVYwMRQSbLSPI3eL1zrH2qeCKU7TavMtMvST%2BsT7e8OHzCVXijeUoZ2Idt3EqYvTFZQJiZFqGPedqtV0UIW%2BWPW2RRgQAK%2BYf7JOwnK01LN3A0NcKcL9JfDhx8EcPI467hbfphWhjbuv%2BOQqPihKaCDoLy6wT6ERryjfF5kRIhZiTRPEH1FbKuXYXAFa43H76501zBlHFYWx9OfRtWDrIjhad%2BjrgUu9e4WwbsCUgzTpAiE1ift7ykbe9C%2Bj8C7%2FbwyCIyKAwqngUuKDYuJ9Ym9wV6iEHH976fWkYL8J9JNBNt9EcQNUbqOMbEAVVxkNT5PPTOvWGp4MYe1LgUzYNZxPNfRtNZYRNIzwgCCQ292cBQ%3D%3D</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name nil="true"></version_control_user_name>
+      <jabber_user_name nil="true"></jabber_user_name>
+    </author>
+    <body>@cwathing nice catch on the 'y' I'll spend some time with @cwattrus to talk about search.  If you have any suggestions please sen them our way.  It might be that we revisit search itself vs just moving murmurs.</body>
+    <created_at type="datetime">2014-06-09T22:14:03Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="default">
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37880</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/10340.xml">
+      <id type="integer">10340</id>
+      <name>Mingle Integration</name>
+      <login>mingle.saas@thoughtworks.com</login>
+      <email>mingle.saas@thoughtworks.com</email>
+      <light type="boolean">false</light>
+      <icon_path nil="true"></icon_path>
+      <icon_url>http://www.gravatar.com/avatar/0a10dba66a8bf1409fe2ddaf7bf200fc?d=404&amp;s=48</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name nil="true"></version_control_user_name>
+      <jabber_user_name nil="true"></jabber_user_name>
+    </author>
+    <body>Author: [pwang](mailto:pwang@thoughtworks.com)
+ConcurrentFriendlyDocumentFormatter to help us debugging the failure
+commit #rev-81d988b63eb9bf (mingle-test)
+Date:   Mon Jun 9 15:12:28 2014 -0700</body>
+    <created_at type="datetime">2014-06-09T22:12:36Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="default">
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37879</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/10003.xml">
+      <id type="integer">10003</id>
+      <name>Chad</name>
+      <login>cwathing</login>
+      <email>cwathing@thoughtworks.com</email>
+      <light type="boolean">false</light>
+      <icon_path>/user/icon/10003/Photo_4_Cropped.gif</icon_path>
+      <icon_url>https://pasty-attachments-storage.s3-us-west-1.amazonaws.com/mingle/user/icon/10003/Photo_4_Cropped.gif?AWSAccessKeyId=WINK&amp;Expires=1402437927&amp;Signature=pTcpVMjZp%2BkejSxkz24oEw06y5A%3D&amp;response-content-type=image%2Fgif&amp;x-amz-security-token=AQoDYXdzEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEa0AOoS5uUTt5x11008H76wt%2B4xri588vbHoKgwog0LJza3Dl0%2B2vQk8x9B%2FKEGr6C0THijoZg26zBH852mdKQg7kJDmUd9Rwkp2NppApuUhXeAW83THS0wkHLunuTfAwtIsBtjxgElYHNWUTXhmkQ%2BnkYZHnTy7AufCaO%2BHWwm%2Bd1uhOLSWo%2Bvs3T7IwXEp14lF7%2FYDrTE5FTqaDVzBHPc6kFedrBPqWQfJRiJOaMuWOODaHA5oWe9lEtfTn9itBmHF3ppAGbPVYwMRQSbLSPI3eL1zrH2qeCKU7TavMtMvST%2BsT7e8OHzCVXijeUoZ2Idt3EqYvTFZQJiZFqGPedqtV0UIW%2BWPW2RRgQAK%2BYf7JOwnK01LN3A0NcKcL9JfDhx8EcPI467hbfphWhjbuv%2BOQqPihKaCDoLy6wT6ERryjfF5kRIhZiTRPEH1FbKuXYXAFa43H76501zBlHFYWx9OfRtWDrIjhad%2BjrgUu9e4WwbsCUgzTpAiE1ift7ykbe9C%2Bj8C7%2FbwyCIyKAwqngUuKDYuJ9Ym9wV6iEHH976fWkYL8J9JNBNt9EcQNUbqOMbEAVVxkNT5PPTOvWGp4MYe1LgUzYNZxPNfRtNZYRNIzwgCCQ292cBQ%3D%3D</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name nil="true"></version_control_user_name>
+      <jabber_user_name>chad</jabber_user_name>
+    </author>
+    <body>@team couple niggly bits... the tab box doesn't have a low enough x-height... the y is getting cut off on the word history... also, given murmurs new location, search felt a bit funny to me... it's not terrible, but it's a bit odd.</body>
+    <created_at type="datetime">2014-06-09T22:10:57Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="default">
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37878</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/10018.xml">
+      <id type="integer">10018</id>
+      <name>W &quot;the&quot; PC</name>
+      <login>pwang</login>
+      <email>pwang@thoughtworks.com</email>
+      <light type="boolean">false</light>
+      <icon_path>/user/icon/10018/wpc_copy.jpg</icon_path>
+      <icon_url>https://pasty-attachments-storage.s3-us-west-1.amazonaws.com/mingle/user/icon/10018/wpc_copy.jpg?AWSAccessKeyId=WINK&amp;Expires=1402437927&amp;Signature=f3M1sZi6rSvT9YrCpXDZWhWjyGc%3D&amp;response-content-type=image%2Fjpeg&amp;x-amz-security-token=AQoDYXdzEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEa0AOoS5uUTt5x11008H76wt%2B4xri588vbHoKgwog0LJza3Dl0%2B2vQk8x9B%2FKEGr6C0THijoZg26zBH852mdKQg7kJDmUd9Rwkp2NppApuUhXeAW83THS0wkHLunuTfAwtIsBtjxgElYHNWUTXhmkQ%2BnkYZHnTy7AufCaO%2BHWwm%2Bd1uhOLSWo%2Bvs3T7IwXEp14lF7%2FYDrTE5FTqaDVzBHPc6kFedrBPqWQfJRiJOaMuWOODaHA5oWe9lEtfTn9itBmHF3ppAGbPVYwMRQSbLSPI3eL1zrH2qeCKU7TavMtMvST%2BsT7e8OHzCVXijeUoZ2Idt3EqYvTFZQJiZFqGPedqtV0UIW%2BWPW2RRgQAK%2BYf7JOwnK01LN3A0NcKcL9JfDhx8EcPI467hbfphWhjbuv%2BOQqPihKaCDoLy6wT6ERryjfF5kRIhZiTRPEH1FbKuXYXAFa43H76501zBlHFYWx9OfRtWDrIjhad%2BjrgUu9e4WwbsCUgzTpAiE1ift7ykbe9C%2Bj8C7%2FbwyCIyKAwqngUuKDYuJ9Ym9wV6iEHH976fWkYL8J9JNBNt9EcQNUbqOMbEAVVxkNT5PPTOvWGp4MYe1LgUzYNZxPNfRtNZYRNIzwgCCQ292cBQ%3D%3D</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name>pwang</version_control_user_name>
+      <jabber_user_name>pwang</jabber_user_name>
+    </author>
+    <body>@xli http://stackoverflow.com/questions/9161773/how-can-i-get-selenium-web-driver-to-wait-for-an-element-to-be-accessible-not-j</body>
+    <created_at type="datetime">2014-06-09T22:07:55Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="default">
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37877</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/11643.xml">
+      <id type="integer">11643</id>
+      <name>jnarkuns</name>
+      <login>jnarkuns</login>
+      <email nil="true"></email>
+      <light type="boolean">false</light>
+      <icon_path>/user/icon/11643/Jamie_Image.jpg</icon_path>
+      <icon_url>https://pasty-attachments-storage.s3-us-west-1.amazonaws.com/mingle/user/icon/11643/Jamie_Image.jpg?AWSAccessKeyId=WINK&amp;Expires=1402437927&amp;sig123%3D&amp;response-content-type=image%2Fjpeg&amp;x-amz-security-token=AQoDYXdzEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEa0AOoS5uUTt5x11008H76wt%2B4xri588vbHoKgwog0LJza3Dl0%2B2vQk8x9B%2FKEGr6C0THijoZg26zBH852mdKQg7kJDmUd9Rwkp2NppApuUhXeAW83THS0wkHLunuTfAwtIsBtjxgElYHNWUTXhmkQ%2BnkYZHnTy7AufCaO%2BHWwm%2Bd1uhOLSWo%2Bvs3T7IwXEp14lF7%2FYDrTE5FTqaDVzBHPc6kFedrBPqWQfJRiJOaMuWOODaHA5oWe9lEtfTn9itBmHF3ppAGbPVYwMRQSbLSPI3eL1zrH2qeCKU7TavMtMvST%2BsT7e8OHzCVXijeUoZ2Idt3EqYvTFZQJiZFqGPedqtV0UIW%2BWPW2RRgQAK%2BYf7JOwnK01LN3A0NcKcL9JfDhx8EcPI467hbfphWhjbuv%2BOQqPihKaCDoLy6wT6ERryjfF5kRIhZiTRPEH1FbKuXYXAFa43H76501zBlHFYWx9OfRtWDrIjhad%2BjrgUu9e4WwbsCUgzTpAiE1ift7ykbe9C%2Bj8C7%2FbwyCIyKAwqngUuKDYuJ9Ym9wV6iEHH976fWkYL8J9JNBNt9EcQNUbqOMbEAVVxkNT5PPTOvWGp4MYe1LgUzYNZxPNfRtNZYRNIzwgCCQ292cBQ%3D%3D</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name nil="true"></version_control_user_name>
+      <jabber_user_name nil="true"></jabber_user_name>
+    </author>
+    <body>I have two sets long for and short form.  Let's go with Short form first since the UI lends itself to that and we can go from there.  I changes some language to be more user friendly and less industry specific.</body>
+    <created_at type="datetime">2014-06-09T21:51:42Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="comment">
+      <origin url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/projects/minglezy/cards/704.xml">
+        <number type="integer">704</number>
+      </origin>
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37876</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/11643.xml">
+      <id type="integer">11643</id>
+      <name>jnarkuns</name>
+      <login>jnarkuns</login>
+      <email nil="true"></email>
+      <light type="boolean">false</light>
+      <icon_path>/user/icon/11643/Jamie_Image.jpg</icon_path>
+      <icon_url>https://pasty-attachments-storage.s3-us-west-1.amazonaws.com/mingle/user/icon/11643/Jamie_Image.jpg?AWSAccessKeyId=WINK&amp;Expires=1402437927&amp;sig123%3D&amp;response-content-type=image%2Fjpeg&amp;x-amz-security-token=AQoDYXdzEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEa0AOoS5uUTt5x11008H76wt%2B4xri588vbHoKgwog0LJza3Dl0%2B2vQk8x9B%2FKEGr6C0THijoZg26zBH852mdKQg7kJDmUd9Rwkp2NppApuUhXeAW83THS0wkHLunuTfAwtIsBtjxgElYHNWUTXhmkQ%2BnkYZHnTy7AufCaO%2BHWwm%2Bd1uhOLSWo%2Bvs3T7IwXEp14lF7%2FYDrTE5FTqaDVzBHPc6kFedrBPqWQfJRiJOaMuWOODaHA5oWe9lEtfTn9itBmHF3ppAGbPVYwMRQSbLSPI3eL1zrH2qeCKU7TavMtMvST%2BsT7e8OHzCVXijeUoZ2Idt3EqYvTFZQJiZFqGPedqtV0UIW%2BWPW2RRgQAK%2BYf7JOwnK01LN3A0NcKcL9JfDhx8EcPI467hbfphWhjbuv%2BOQqPihKaCDoLy6wT6ERryjfF5kRIhZiTRPEH1FbKuXYXAFa43H76501zBlHFYWx9OfRtWDrIjhad%2BjrgUu9e4WwbsCUgzTpAiE1ift7ykbe9C%2Bj8C7%2FbwyCIyKAwqngUuKDYuJ9Ym9wV6iEHH976fWkYL8J9JNBNt9EcQNUbqOMbEAVVxkNT5PPTOvWGp4MYe1LgUzYNZxPNfRtNZYRNIzwgCCQ292cBQ%3D%3D</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name nil="true"></version_control_user_name>
+      <jabber_user_name nil="true"></jabber_user_name>
+    </author>
+    <body>I put together this google spreadsheet with a list of questions.  I added a few @xli suggested we rotate questions so you will notice on a few I changed the language a bit.  Ex.  I was able to customize mingle to fit my needs v.s. It was easy to customize mingle to fit my needs... I'll note my suggestions for the first round... Please add to and edit as needed.  All access from this link: https://docs.google.com/a/thoughtworks.com/spreadsheets/d/1hC0ql6J7QEtJC2_wYW9dex2VpyjHdbIIQ-R8B74oBIQ/edit?usp=sharing</body>
+    <created_at type="datetime">2014-06-09T21:44:22Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="comment">
+      <origin url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/projects/minglezy/cards/704.xml">
+        <number type="integer">704</number>
+      </origin>
+    </stream>
+  </murmur>
+  <murmur>
+    <id type="integer">37875</id>
+    <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/10340.xml">
+      <id type="integer">10340</id>
+      <name>Mingle Integration</name>
+      <login>mingle.saas@thoughtworks.com</login>
+      <email>mingle.saas@thoughtworks.com</email>
+      <light type="boolean">false</light>
+      <icon_path nil="true"></icon_path>
+      <icon_url>http://www.gravatar.com/avatar/0a10dba66a8bf1409fe2ddaf7bf200fc?d=404&amp;s=48</icon_url>
+      <activated type="boolean">true</activated>
+      <admin type="boolean">true</admin>
+      <version_control_user_name nil="true"></version_control_user_name>
+      <jabber_user_name nil="true"></jabber_user_name>
+    </author>
+    <body>use sql to calculate project variable usage among transitions that works in both pgsql and oracle</body>
+    <created_at type="datetime">2014-06-09T20:34:20Z</created_at>
+    <jabber_user_name nil="true"></jabber_user_name>
+    <is_truncated type="boolean">false</is_truncated>
+    <stream type="default">
+    </stream>
+  </murmur>
+</murmurs>

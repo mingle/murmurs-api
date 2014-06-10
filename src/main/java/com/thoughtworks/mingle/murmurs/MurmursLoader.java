@@ -1,8 +1,14 @@
 package com.thoughtworks.mingle.murmurs;
 
+import java.io.BufferedReader;
+import java.io.IOException;
 import java.io.InputStream;
+import java.io.Reader;
+import java.util.Collections;
 import java.util.List;
 
+import com.google.common.base.Preconditions;
+import com.google.common.io.CharSource;
 import com.thoughtworks.mingle.murmurs.Murmur.Stream.Origin;
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.converters.basic.DateConverter;
@@ -10,12 +16,18 @@ import com.thoughtworks.xstream.io.xml.DomDriver;
 
 public class MurmursLoader {
   
-  public static class NoMoreMurmursException extends RuntimeException { }
+  private final XStream xstream;
+  {
+	  xstream = new XStream(new DomDriver());
+	  xstream.addImplicitCollection(Murmur.Murmurs.class, "murmurs", Murmur.class);
+	  xstream.alias("murmurs", Murmur.Murmurs.class);
+	  addCommonAliases(xstream);
+  }
 
   private static final DateConverter DATE_CONVERTER = new DateConverter("yyyy-MM-dd'T'HH:mm:ss'Z'",
       new String[] { "yyyy-MM-dd'T'HH:mm:ssZ" });
   
-  private void addCommonAliases(XStream xstream) {
+  private static void addCommonAliases(XStream xstream) {
     xstream.alias("murmur", Murmur.class);
     xstream.alias("author", Author.class);
     xstream.alias("stream", Murmur.Stream.class);
@@ -26,22 +38,28 @@ public class MurmursLoader {
         MurmursLoader.DATE_CONVERTER);
   }
 
-  public Murmur loadOneFromXml(InputStream inputStream) {
-    XStream xstream = new XStream(new DomDriver());
-    addCommonAliases(xstream);
-    return (Murmur) xstream.fromXML(inputStream);
+  public Murmur loadOneFromXml(String xml) {
+	return (Murmur) getXstream().fromXML(xml);		
   }
   
-  public List<Murmur> loadMultipleFromXml(InputStream inputStream) {
-    XStream xstream = new XStream(new DomDriver());
-    xstream.addImplicitCollection(Murmur.Murmurs.class, "murmurs", Murmur.class);
-    xstream.alias("murmurs", Murmur.Murmurs.class);
-    addCommonAliases(xstream);
-    Murmur.Murmurs murmurs = (Murmur.Murmurs) xstream.fromXML(inputStream);
+  public List<Murmur> loadMultipleFromXml(CharSource source) {
+	 Preconditions.checkNotNull(source);
+    Murmur.Murmurs murmurs = null;
+    BufferedReader reader = null;
+	try {
+		reader = source.openBufferedStream();
+		murmurs = (Murmur.Murmurs) getXstream().fromXML(reader);
+	} catch (IOException e) {
+		throw new RuntimeException(e);
+	} 
     if (murmurs == null) {
-      throw new NoMoreMurmursException();
+      return Collections.EMPTY_LIST;
     }
     return murmurs.getMurmurs();
   }
+
+	private XStream getXstream() {
+		return xstream;
+	}
 
 }

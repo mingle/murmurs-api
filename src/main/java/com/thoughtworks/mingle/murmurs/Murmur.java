@@ -1,6 +1,5 @@
 package com.thoughtworks.mingle.murmurs;
 
-import java.io.InputStream;
 import java.net.URI;
 import java.util.Date;
 import java.util.List;
@@ -106,8 +105,8 @@ public class Murmur {
   }
 
   public void saveAsNew(MurmurPersistor persistor) {
-    InputStream newMurmurXmlStream = persistor.saveAsNew(getBody().trim());
-    Murmur newMurmur = new MurmursLoader().loadOneFromXml(newMurmurXmlStream);
+    String xml = persistor.saveAsNew(getBody().trim());
+    Murmur newMurmur = new MurmursLoader().loadOneFromXml(xml);
     this.author = newMurmur.author;
     this.body = newMurmur.body;
     this.created_at = newMurmur.created_at;

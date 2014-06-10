@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<murmur>
+  <id type="integer">37901</id>
+  <author url="https://mingle.mingle-staging-api.thoughtworks.com/api/v2/users/10042.xml">
+    <id type="integer">10042</id>
+    <name>Bill &quot;Color Hash&quot;</name>
+    <login>wdephill</login>
+    <email>wdephill@thoughtworks.com</email>
+    <light type="boolean">false</light>
+    <icon_path nil="true"></icon_path>
+    <icon_url>http://www.gravatar.com/avatar/8e3c84fad85ba02efd497376dcf4d84b?d=404&amp;s=48</icon_url>
+    <activated type="boolean">true</activated>
+    <admin type="boolean">true</admin>
+    <version_control_user_name>wdephill</version_control_user_name>
+    <jabber_user_name>bdephillips</jabber_user_name>
+  </author>
+  <body>@body@</body>
+  <created_at type="datetime">2014-06-10T22:22:46Z</created_at>
+  <jabber_user_name nil="true"></jabber_user_name>
+  <is_truncated type="boolean">false</is_truncated>
+  <stream type="default">
+  </stream>
+</murmur>
