@@ -14,7 +14,7 @@ dependencies {
 }
 
 sourceCompatibility = 1.6
-version = '1.0'
+version = '1.0.0'
 jar {
     manifest {
         attributes 'Implementation-Title': 'murmurs-xstream', 'Implementation-Version': version
