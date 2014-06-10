@@ -7,4 +7,8 @@ Originally created for the Mingle Murmurs Android App
 
 It is compatible with Mingle 14.2 or later.
 
-Copyright, Bill DePhillips 2014
+
+Instructions
+============
+
+To get a jar, run gradle jar
