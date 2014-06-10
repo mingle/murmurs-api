@@ -1,0 +1,30 @@
+apply plugin: 'java'
+apply plugin: 'eclipse'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+  compile group: 'com.ocpsoft', name: 'ocpsoft-pretty-time', version: '1.+'
+  compile group: 'org.slf4j', name: 'slf4j-api', version: '1.7.+'
+  compile group: 'com.thoughtworks.xstream', name: 'xstream', version: '1.+'
+  compile group: 'com.google.guava', name: 'guava', version: '17.+'
+  testCompile group: 'junit', name: 'junit', version: '4.+'
+}
+
+sourceCompatibility = 1.6
+version = '1.0'
+jar {
+    manifest {
+        attributes 'Implementation-Title': 'murmurs-xstream', 'Implementation-Version': version
+    }
+}
+
+uploadArchives {
+    repositories {
+       flatDir {
+           dirs 'repos'
+       }
+    }
+}
