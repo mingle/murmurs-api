@@ -17,7 +17,7 @@ import com.google.common.io.Files;
 import com.google.common.io.Resources;
 
 public class MurmursLoaderTest {
-	
+
 	@Test
 	public void testLoadMany() throws Exception {
 		MurmursLoader ldr = new MurmursLoader();
@@ -26,6 +26,7 @@ public class MurmursLoaderTest {
 		List<Murmur> murmurs = ldr.loadMultipleFromXml(CharSource.wrap(xml));
 		assertEquals(25, murmurs.size());
 		Murmur murmur = murmurs.get(24);
+                assertEquals(Integer.valueOf(37875), murmur.getId());
 		assertEquals("use sql to calculate project variable usage among transitions that works in both pgsql and oracle", murmur.getBody());
 		assertEquals("http://www.gravatar.com/avatar/0a10dba66a8bf1409fe2ddaf7bf200fc?d=404&s=48", murmur.getIconPathUri());
 	}

@@ -1,5 +1,6 @@
 apply plugin: 'java'
 apply plugin: 'idea'
+apply plugin: 'maven-publish'
 
 repositories {
     mavenCentral()
@@ -14,7 +15,9 @@ dependencies {
 }
 
 sourceCompatibility = 1.6
+group = 'com.thoughtworks.mingle'
 version = '1.0.0'
+
 jar {
     manifest {
         attributes 'Implementation-Title': 'murmurs-api', 'Implementation-Version': version
@@ -26,5 +29,18 @@ uploadArchives {
        flatDir {
            dirs 'repos'
        }
+    }
+}
+
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            from components.java
+        }
+    }
+    repositories {
+        maven {
+            url "$buildDir/repo" // change to point to your repo, e.g. http://my.org/repo
+        }
     }
 }

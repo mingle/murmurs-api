@@ -2,6 +2,7 @@ package com.thoughtworks.mingle.murmurs;
 
 import com.ocpsoft.pretty.time.PrettyTime;
 import com.thoughtworks.mingle.api.DateValue;
+import com.thoughtworks.mingle.api.IntegerValue;
 import org.simpleframework.xml.Element;
 import org.simpleframework.xml.Root;
 
@@ -13,11 +14,14 @@ public class Murmur {
 
     private static final PrettyTime prettyTime = new PrettyTime();
 
-    @Element(required = false)
+    @Element
     private String body;
 
-    @Element(required = false)
+    @Element
     private DateValue created_at;
+
+    @Element
+    private IntegerValue id;
 
 //    private String jabber_user_name;
 //    private boolean is_truncated;
@@ -79,6 +83,10 @@ public class Murmur {
 
     public String getTagline() {
         return String.format("-%s (%s)", getAuthor(), getCreatedAtFormatted());
+    }
+
+    public Integer getId() {
+        return this.id.get();
     }
 
     public void saveAsNew(MurmurPersistor persistor) {
