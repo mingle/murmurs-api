@@ -22,7 +22,7 @@ public class MurmursLoaderTest {
 	public void testLoadMany() throws Exception {
 		MurmursLoader ldr = new MurmursLoader();
 		URL url = Resources.getResource("page.xml");
-		String xml= Resources.toString(url, Charsets.UTF_8);
+		String xml = Resources.toString(url, Charsets.UTF_8);
 		List<Murmur> murmurs = ldr.loadMultipleFromXml(CharSource.wrap(xml));
 		assertEquals(25, murmurs.size());
 		Murmur murmur = murmurs.get(24);

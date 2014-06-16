@@ -12,5 +12,5 @@ public class MurmurTest {
 		m.saveAsNew(persistor);
 		assertEquals("Bill \"Color Hash\"", m.getAuthor());
 	}
-	
+
 }
