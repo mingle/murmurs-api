@@ -1,6 +1,5 @@
 package com.thoughtworks.mingle.murmurs;
 
-import com.ocpsoft.pretty.time.PrettyTime;
 import com.thoughtworks.mingle.api.DateValue;
 import com.thoughtworks.mingle.api.IntegerValue;
 import org.simpleframework.xml.Element;
@@ -12,8 +11,6 @@ import java.util.Date;
 @Root
 public class Murmur {
 
-    private static final PrettyTime prettyTime = new PrettyTime();
-
     @Element
     private String body;
 
@@ -22,10 +19,6 @@ public class Murmur {
 
     @Element
     private IntegerValue id;
-
-//    private String jabber_user_name;
-//    private boolean is_truncated;
-//    private String stream;
 
     @Element(required = false)
     private Author author;
@@ -69,20 +62,12 @@ public class Murmur {
         return created_at.get();
     }
 
-    public String getCreatedAtFormatted() {
-        return prettyTime.format(this.created_at.get());
-    }
-
     public String getIconPathUri() {
         return author.getIconUrl();
     }
 
     public String toString() {
         return String.format("%s: %s", this.author, this.body);
-    }
-
-    public String getTagline() {
-        return String.format("-%s (%s)", getAuthor(), getCreatedAtFormatted());
     }
 
     public Integer getId() {
