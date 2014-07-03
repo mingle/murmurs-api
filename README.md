@@ -1,7 +1,7 @@
 murmurs-api
 ===========
 
-Simple java library for pasing [Mingle](http://getmingle.io) Murmurs API into Java objects
+Simple java library for parsing [Mingle](http://getmingle.io) Murmurs API into Java objects
 
 Originally created for the Mingle Murmurs Android App
 
