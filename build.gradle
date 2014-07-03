@@ -21,7 +21,7 @@ project.ext {
   majorVersion = 1
   minorVersion = 0
   patchVersion = 2
-  timestamp = new java.text.SimpleDateFormat("MMddyyyy-HHmm").format(new java.util.Date())
+  timestamp = new java.text.SimpleDateFormat("yyyyMMdd-HHmm").format(new java.util.Date())
 }
 
 version = String.format("%d.%d.%d-%s", project.majorVersion, project.minorVersion, project.patchVersion, project.timestamp)
